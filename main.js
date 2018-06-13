@@ -56,4 +56,4 @@ function double(arr, times) {
 arr = [1,2,3];
 alert(double(arr, 5));
 **/
-alert(typeof NaN === "number")
+function New(x,y) {}
